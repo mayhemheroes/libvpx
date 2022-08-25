@@ -1,0 +1,4 @@
+project: PROJECT
+target: vpx_dec_fuzzer_vp8
+cmds:
+- cmd: /out/vpx_dec_fuzzer_vp8
